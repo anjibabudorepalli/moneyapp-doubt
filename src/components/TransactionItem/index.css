@@ -1,0 +1,14 @@
+.li-con {
+  display: flex;
+  justify-content: space-between;
+  width: 91%;
+}
+
+.button {
+  width: 1px;
+}
+
+.li {
+  display: flex;
+  justify-content: space-between;
+}

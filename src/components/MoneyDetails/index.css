@@ -1,0 +1,40 @@
+.image {
+  width: 70px;
+}
+
+.li-balance {
+  background-color: #ecfccb;
+  list-style-type: none;
+}
+
+.li-income {
+  background-color: #cffafe;
+  list-style-type: none;
+}
+.li-expenses {
+  background-color: #ede9fe;
+  list-style-type: none;
+}
+
+.ll {
+  border-radius: 10px;
+  width: 25%;
+  margin: 10px;
+  height: 125px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.form-head {
+  font-size: 20px;
+}
+
+.container-1 {
+  padding: 20px;
+}
+
+.form {
+  border-style: solid;
+  padding: 10px;
+}
